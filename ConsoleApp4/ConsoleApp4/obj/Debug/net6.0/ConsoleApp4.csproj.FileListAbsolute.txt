@@ -1,0 +1,15 @@
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
