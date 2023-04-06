@@ -1,8 +1,0 @@
-C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
-C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
-C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
-C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
-C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.SuggestedBindingRedirects.cache
-C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
-C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
-C:\Dotnet program\MKPITS_Monali_Mohatkar_feb2033\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
